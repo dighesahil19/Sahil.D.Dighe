@@ -1,0 +1,40 @@
+1] What is a JAVA ?
+-> JAVA is a Programming Language.
+
+2] What is Java Language ?
+-> Language means Communication to computer in their language.
+
+3] What is Computer ?
+-> It is a electronic device that takes the input process.
+
+4] what is Opreating System ?
+-> It is aprogram that provides resourse to run your program.
+
+
+* Micro Processer :- MP is a Semiconductor for electronic devices.
+
+*Semiconductor :-  PNP ( 5Vatt ) 
+                   NPN ( 0Vatt )
+      ________________________________
+      |                              |
+      |              ML              |
+      |                              |
+      |  Software       Hardware     |
+      |   (OS)           (CPU)       |
+      |                              |
+      |                              | 
+      |                              |
+      |______________________________|
+ 
+*Control the flow of exeution of software.
+
+
+
+
+
+
+ 
+ 
+  
+
+         

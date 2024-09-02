@@ -1,0 +1,157 @@
+1) #WAP to Calculate addition of two number
+ -Take two variables to store to numbers a and b
+ -Two numbers are 100,20
+ -Add them and collect result into third varible called c
+ -Print the addition
+
+   Public class addition {
+             Public Static void main(String[]args){
+              
+                  int a = 100;
+                  int b = 20;
+                  int c  = a+b;
+                  system.out.printin(c);
+          }
+      }
+
+
+
+2) #WAP to calculate Area of Circle 
+ -Take two variables to store radius and pi value  
+ - Radius = 10
+ - pi = 3.14
+ - calculate area 
+    area=pi*radius*radius
+ - print area
+
+code:
+
+    public class areacircle{
+public static void main(string {} args){
+   
+int radius = 10;
+doublr pi = 3.14;
+ double calculate area pi=radius*radius;
+
+system.out.println(calculate area);
+
+}
+}
+
+
+
+
+
+
+
+3) #WAP to calculate percentae of 5 subject  
+ - Take five variable to store five subjects marks 
+ - math = 99
+ - eng = 88
+ - physics = 77
+ - chem = 75
+ - boi = 69
+ - calculate total 
+  Total = math + english + physics + chem + boi 
+ -  calculate percentage 
+    total/500*100
+ - print percentage
+
+
+ code:
+  
+   public class percentage 
+     
+     public static void main (string[]args){
+     int math = 99;
+     int english = 88;
+     int physic = 77;
+     int chem = 75;
+     int boi = 69;
+
+    int total = math + english + physic + chem + boi;
+    double percentage = total / 500.0*100;
+    system.out.println(percentage);
+
+  }
+}
+
+
+4) #WAP to calculate avg pf 5 subject
+ - Take five variable to store five subjects marks 
+ - math = 99
+ - eng = 88
+ - physics = 77
+ - chem = 75
+ - boi = 69
+ - calculate avg 
+
+code :
+
+ public class calculate avg{
+ public static void main (string{args}){
+  int math = 99;
+  int englis  88;
+  int physic = 77;
+  int chem = 75;
+  int boi = 69;
+ 
+ total = math + eng + physic + chem + boi;
+
+double avg=(total/5.0);
+system.out.println(avg);
+}
+}
+   
+
+
+
+
+5) #WAP to calculate SI
+ - Take three variable namly P,N,R
+ - P = 12000
+ - N = 3
+ - R = 12.25
+ - calculate SI
+SI = p*r*n
+
+code:
+
+
+  public class calculate {
+  static void main (string[]args){
+
+int P = 12000
+int n = 3
+int r = 12.25
+ 
+double si = P*n*r/100;
+system.out.println(si);
+}
+}
+
+
+
+
+6)  #WAP calculate selling price of product 
+ - Take four variables like originalprice,Disciountpercentage,discount,selligprice
+ - originalprice = 2000
+ - discountpercentage = 20
+ - calculate discount = originalprice*discountpercentage /100;
+ - calculate sellingprice = originalprice - discount;
+ - print sellingprice
+
+
+code: 
+
+   public class selling price of product{
+public static void main (string[]args){
+
+int originalprice = 2000
+int discountpersentage = 20
+calculate discount =originalprice*discountpercentage /100;
+discount sellingprices = originalprice - discount 
+system.out.println(sellingprice);
+}
+}
+

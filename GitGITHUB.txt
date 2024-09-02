@@ -1,0 +1,80 @@
+
+#GIT:
+   -GIT is a standalone application.
+   -GIT is a distributed version control system.
+   -GIT is a version control tool used to track file systems or projects.
+   -we have to installed git locally on our computer.
+   -Types of version control system
+    1]CVS
+    2]dvs-GIT
+
+
+#GIT it Used For :-
+   -Tracking the code changes 
+   -Tracking who made changes,when like complete history of the changes.
+   -coding collabration.
+
+
+#GITHUB:
+
+   -GITHUB is a web application.
+   -GUTHUB is a central/remote repository used to store projects
+   -IT is web base hosting(server)service
+   -GIT server is a GITHUB
+   -GITHUB,GITLAB,BITBUCKET,etc.
+
+
+# Types of version control means ?
+   1)CVS
+   2)DVS
+   
+  #CVS (Central Version System)
+ 
+  1]Net work
+  2]server down
+
+
+
+
+Basics of GIT and GITHUB
+   #Types of applications/Type of projects
+
+  1.Standalone Applications.
+  2.Web Applications.
+
+
+1].Standalone Applicatons
+- We have to locally installed standalone applications on our computer.
+- There is no need of internet to work with standalone applications.
+- Operaating Systems provides resoursess to run your standalone application.
+- At a time only one person can use it.
+
+
+2].Web Applications 
+- Web applications are installed or delopyed on server computer.
+- To access web applications net worth (internet is mandetory)
+- Server provides reourses to run your web apllications.
+- At a time multiple person can use it.
+- All work you done is there on server computer.
+- To acsses web applications(server) there is need of web-browsers(chrome)clinet.
+
+
+
+
+
+
+                                                //  GIT & GITHUB Difference //
+ 
+                 GIT                                                             GITHUB
+ 
+     1.GIT is Software.                                                  1.GITHUB is server
+     2.GIT is Command-line tool                                          2.GITHUB is a graphical user interface
+     3.GIT is installed Locally on the system                            3.GITHUB is hosted on the web 
+     4.GIT is maintained by Linux                                        4.GITHUB is maintained by microsoft
+     5.GIT is focused on version control and code sharing.               5.GITHUB is focused on centralized.
+     6.GIT  is a version control and code sharing                        6.GITHUB is a hosting service for GIT reposotories
+     7.GIT was first relesead in 2005.                                   7.GITHUB was launched in 2008.
+
+
+
+ 
